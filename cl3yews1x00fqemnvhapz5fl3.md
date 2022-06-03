@@ -161,4 +161,6 @@ Example of Chrome Badge:
 chrome.action.setBadgeText({ text: "Badge Text" })
 ```
 
+If you like this article let me know how was it. If I get a noticeable response I will write another article about Page Action Extension.
+
 Thanks for reading 😍
