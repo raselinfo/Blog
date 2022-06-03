@@ -18,7 +18,7 @@ You can also take this article as Cheat Sheet. So let's start 🥰
 - Chrome extensions are software programs, build on web technologies (such as HTML, CSS, and JS) that enable the users to customize browser features.
 
 ## How to start building a chrome extension?
-- As I said we need web technology to build the chrome extension. So here we can you HTML, CSS, JS or we can choose a js library like React, Jquery
+- As I said we need web technology to build the chrome extension. So here we can use HTML, CSS, JS or we can choose a js library like React, Jquery
 - We also need a common file named manifest.json where we will write details about our chrome extension.
 - After that, we need to save our chrome extension with a .crx zipped file. So that people can download our extension from the chrome web store.
 
